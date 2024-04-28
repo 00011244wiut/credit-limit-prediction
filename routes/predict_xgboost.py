@@ -65,7 +65,7 @@ async def pred_xr(request: Request):
     df.drop(columns=['Age', 'Gender', 'Married', 'Age_Bin'], inplace=True)
     prediction = loaded_model.predict(df)
     output = prediction.tolist()[0]*12500
-    response_content = {f"prediction": f"{output} UZS"}
+    response_content = {f"prediction": f"{output}"}
     return JSONResponse(content=response_content, status_code=200)
 
 
