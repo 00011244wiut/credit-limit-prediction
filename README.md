@@ -1,4 +1,9 @@
-# Credit limit Prediction
+![Credit Limit Prediction Banner](https://telegra.ph/file/eb947b6e8bdbeeec12639.png)
+# Credit Limit Prediction Repository
+
+This repository is dedicated to our credit limit prediction models and algorithms.
+
+You can read and learn about related report with primary and secondary research about the BNPL industry in Uzbekistan [here](https://docs.google.com/document/d/1c5u_VMlW8WvlbIM9NAgjzpHo6rCcVXOi/edit?usp=sharing&ouid=107772990378977160799&rtpof=true&sd=true).
 
 Dataset used: [Credit Card Limit Prediction](https://www.kaggle.com/datasets/syedasimalishah/credit-card-limit-prediction/data)
 
