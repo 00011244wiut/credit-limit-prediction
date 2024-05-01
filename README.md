@@ -46,3 +46,7 @@ Dataset used: [Credit Card Limit Prediction](https://www.kaggle.com/datasets/sye
      }'
      ```
 4. The free tier of render spins down on inactivity. So if you feel the API is slow, give it a couple of minutes for the first 2 calls. It will work fast after that. (Or setup a cron job on some free website)
+
+---
+**Copyright © 2024**  
+*A project undertaken as part of BSc (Hons) Business Information Systems Degree, Westminster International University in Tashkent.*
